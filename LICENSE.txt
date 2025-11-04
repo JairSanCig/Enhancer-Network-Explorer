@@ -1,0 +1,33 @@
+====================================================================================
+Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)
+====================================================================================
+
+Copyright (c) 2025
+Juan Jair Santillán-Cigales
+Instituto de Fisiología Celular (IFC-UNAM)
+
+Permission is hereby granted to use, share, and adapt this software and its accompanying materials
+for academic and non-commercial purposes, provided that proper credit is given to the author
+and this license notice is retained in all copies or substantial portions of the work.
+
+------------------------------------------------------------
+You are free to:
+  • Share — copy and redistribute the material in any medium or format.
+  • Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+  • Attribution — You must give appropriate credit to the author.
+  • NonCommercial — You may not use the material for commercial purposes.
+  • No additional restrictions — You may not apply legal terms or technological
+    measures that legally restrict others from doing anything the license permits.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+------------------------------------------------------------
+
+DISCLAIMER:
+This software is provided "as is", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a particular
+purpose, and noninfringement. In no event shall the authors or copyright holders
+be liable for any claim, damages, or other liability arising from the use of this software.
+====================================================================================
