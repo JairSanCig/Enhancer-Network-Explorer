@@ -108,7 +108,7 @@ https://creativecommons.org/licenses/by-nc/4.0/
 If you use this tool in your research, please cite:
 
 Santillán-Cigales JJ (2025). Enhancer Network Explorer: An interactive Shiny framework for TF–Enhancer–Gene network visualization and analysis. Version 2.9. Instituto de Fisiología Celular (IFC-UNAM).
-DOI: (to be added after Zenodo registration)
+This release corresponds to the version of the app described in the manuscript currently under review. DOI:
 
 # Contact
 
