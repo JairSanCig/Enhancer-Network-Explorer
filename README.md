@@ -1,9 +1,11 @@
 # Enhancer-Network-Explorer
 
-Version 2.9 — Stable Release
-Author: Juan Jair Santillán-Cigales
-Institution: Instituto de Fisiología Celular (IFC-UNAM)
-Date: 23 October 2025
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645300.svg)](https://doi.org/10.5281/zenodo.17645300)
+
+**Version:** 2.9 — Stable Release
+**Author:** Juan Jair Santillán-Cigales
+**Institution:** Instituto de Fisiología Celular (IFC-UNAM)
+**Date:** 23 October 2025
 
 # Overview
 
@@ -107,8 +109,10 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 If you use this tool in your research, please cite:
 
-Santillán-Cigales JJ (2025). Enhancer Network Explorer: An interactive Shiny framework for TF–Enhancer–Gene network visualization and analysis. Version 2.9. Instituto de Fisiología Celular (IFC-UNAM).
-This release corresponds to the version of the app described in the manuscript currently under review. DOI:
+Santillán-Cigales, J. J. (2025). JairSanCig/Enhancer-Network-Explorer:
+Enhancer-Network-Explorer v2.9. Zenodo.
+https://doi.org/10.5281/zenodo.17645300
+This release corresponds to the version of the app described in the manuscript currently under review.
 
 # Contact
 
