@@ -10,6 +10,14 @@
 #### This Shiny app enables interactive exploration of 
 #### enhancer–TF–gene regulatory networks derived from 
 #### integrative CUT&RUN and expression analyses.
+####
+#### DOI:
+####  - https://doi.org/10.5281/zenodo.17645300
+####
+#### Recommended citation:
+####  Santillán-Cigales, J. J. (2025). JairSanCig/Enhancer-
+####  Network-Explorer: Enhancer-Network-Explorer v2.9. Zenodo. 
+####  https://doi.org/10.5281/zenodo.17645300
 #############################################################
 
 
@@ -389,6 +397,20 @@ ui <- fluidPage(
           tags$li(strong("⚠️ Tip:"), " Large networks (>200 nodes) may take longer to render.")
         )
       ),
+
+      # --- Recommended citation ---
+        tags$div(
+          style = "font-size: 11px; color: grey; margin-top: 12px; padding: 6px; border-left: 3px solid #cccccc;",
+          HTML("
+            <b>Recommended citation:</b><br>
+            Santillán-Cigales, J. J. (2025). 
+            <i>JairSanCig/Enhancer-Network-Explorer: Enhancer-Network-Explorer v2.9</i>. 
+            Zenodo.<br>
+            <a href='https://doi.org/10.5281/zenodo.17645300' target='_blank'>
+              https://doi.org/10.5281/zenodo.17645300
+            </a>
+          ")
+      ),
       hr(),
       
       # --- Dataset selection (dynamic) ---
@@ -492,11 +514,16 @@ ui <- fluidPage(
       
       # --- Footer ---
       tags$footer(
-        align = "center",
-        style = "font-size: 12px; color: grey;",
-        HTML("Developed by <b>Juan Jair Santillán-Cigales</b><br>
-             PhD Candidate, Instituto de Fisiología Celular (IFC-UNAM)")
-      )
+      align = "center",
+      style = "font-size: 12px; color: grey; margin-top: 15px;",
+      HTML("
+        Developed by <b>Juan Jair Santillán-Cigales</b><br>
+        Instituto de Fisiología Celular (IFC-UNAM)<br>
+        <a href='https://doi.org/10.5281/zenodo.17645300' target='_blank'>
+         DOI: 10.5281/zenodo.17645300
+        </a>
+      ")
+      ) 
     ),
     
     # ======================================================
