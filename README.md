@@ -113,6 +113,8 @@ Santillán-Cigales, J. J. (2025). JairSanCig/Enhancer-Network-Explorer:
 Enhancer-Network-Explorer v2.9. Zenodo.
 https://doi.org/10.5281/zenodo.17645300
 
+This release is the version used for the analyses and figures presented in our study.
+
 # Contact
 
 For questions, feedback, or collaborations:
