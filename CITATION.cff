@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+
+message: "If you use Enhancer Network Explorer, please cite the associated publication and software archive."
+
+title: "Enhancer Network Explorer"
+
+type: software
+
+version: "2.9"
+
+doi: "10.5281/zenodo.17645300"
+
+date-released: 2025-10-23
+
+authors:
+  - family-names: "Santillán-Cigales"
+    given-names: "Juan Jair"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Santillán-Cigales"
+      given-names: "Juan Jair"
+
+    - family-names: "Meléndez-Ramírez"
+      given-names: "Cesar"
+
+    - family-names: "Reyes-Aldana"
+      given-names: "Margareht"
+
+    - family-names: "Escobedo-Avila"
+      given-names: "Itzel"
+
+    - family-names: "Cabrera-Castro"
+      given-names: "Maricela"
+
+    - family-names: "López-Saavedra"
+      given-names: "Alejandro"
+
+    - family-names: "Cuevas-Diaz Duran"
+      given-names: "Raquel"
+
+    - family-names: "Velasco"
+      given-names: "Iván"
+
+  title: "β-Hydroxybutyrate Exposure is Associated with Increased TH+ Neuron Abundance and Dopaminergic-Related Transcriptional Features in Human Midbrain Organoids"
+
+  journal: "Cellular and Molecular Neurobiology"
+
+  year: 2026
+
+  doi: "10.1007/s10571-026-01771-1"
