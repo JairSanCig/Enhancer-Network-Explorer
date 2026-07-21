@@ -1,17 +1,30 @@
 # Enhancer-Network-Explorer
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645300.svg)](https://doi.org/10.5281/zenodo.17645300)
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645300.svg)](https://doi.org/10.5281/zenodo.17645300)
+[![Article DOI](https://img.shields.io/badge/Article_DOI-10.1007%2Fs10571--026--01771--1-blue)](https://doi.org/10.1007/s10571-026-01771-1)
 
-[![DOI](https://doi.org/10.1007/s10571-026-01771-1.svg)](https://doi.org/10.1007/s10571-026-01771-1)
-
-**Cite:** https://doi.org/10.1007/s10571-026-01771-1
-
-Santillán-Cigales, J.J., Meléndez-Ramírez, C., Reyes-Aldana, M. et al. β-Hydroxybutyrate Exposure is Associated with Increased TH+ Neuron Abundance and Dopaminergic-Related Transcriptional Features in Human Midbrain Organoids. Cell Mol Neurobiol (2026).
-
-**Version:** 2.9 — Stable Release
-**Author:** Juan Jair Santillán-Cigales
-**Institution:** Instituto de Fisiología Celular (IFC-UNAM)
+**Version:** 2.9 — Stable Release  
+**Author:** Juan Jair Santillán-Cigales  
+**Institution:** Instituto de Fisiología Celular (IFC-UNAM)  
 **Date:** 23 October 2025
+
+## Associated Publication
+
+Santillán-Cigales, J.J., Meléndez-Ramírez, C., Reyes-Aldana, M. *et al.*  
+**β-Hydroxybutyrate Exposure is Associated with Increased TH+ Neuron Abundance and Dopaminergic-Related Transcriptional Features in Human Midbrain Organoids.**  
+*Cellular and Molecular Neurobiology* (2026).
+
+**DOI:** [10.1007/s10571-026-01771-1](https://doi.org/10.1007/s10571-026-01771-1)
+
+## Citation
+
+If you use **Enhancer Network Explorer** code in your research, please cite the associated publication:
+
+> Santillán-Cigales, J.J., Meléndez-Ramírez, C., Reyes-Aldana, M. et al. β-Hydroxybutyrate Exposure is Associated with Increased TH+ Neuron Abundance and Dopaminergic-Related Transcriptional Features in Human Midbrain Organoids. *Cellular and Molecular Neurobiology* (2026). https://doi.org/10.1007/s10571-026-01771-1
+
+The archived software release is available through Zenodo:
+
+**Software DOI:** [10.5281/zenodo.17645300](https://doi.org/10.5281/zenodo.17645300)
 
 # Overview
 
