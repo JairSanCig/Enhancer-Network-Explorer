@@ -126,8 +126,11 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 # Citation
 
-If you use this tool in your research, please cite:
+If you use Enhancer Network Explorer in your research, please cite the associated publication:
 
+Santillán-Cigales, J.J., Meléndez-Ramírez, C., Reyes-Aldana, M. et al. β-Hydroxybutyrate Exposure is Associated with Increased TH+ Neuron Abundance and Dopaminergic-Related Transcriptional Features in Human Midbrain Organoids. Cellular and Molecular Neurobiology (2026). https://doi.org/10.1007/s10571-026-01771-1
+
+Software archive - The version of Enhancer Network Explorer used for the analyses and figures presented in the associated publication is archived on Zenodo:
 Santillán-Cigales, J. J. (2025). JairSanCig/Enhancer-Network-Explorer:
 Enhancer-Network-Explorer v2.9. Zenodo.
 https://doi.org/10.5281/zenodo.17645300
